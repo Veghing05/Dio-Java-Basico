@@ -1,3 +1,4 @@
 # Dio-Java-Basico
-Repositório para armazenar todo o conteúdo d curso de Java básico
-teste 123
+Repositório para armazenar todo o conteúdo de curso de Java básico
+
+Criação de Pastas
