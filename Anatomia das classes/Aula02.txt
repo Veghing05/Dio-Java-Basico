@@ -1,0 +1,11 @@
+A escrita de códigos de um programa
+
+escrito em ingles
+
+funções, variaveis metódos e etc...
+
+nome com o arquivo = conteudo
+
+public class MinhaClass {
+  //SEU CÓDIGO AQUI
+}
