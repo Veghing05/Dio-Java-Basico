@@ -1,0 +1,11 @@
+Java Sintaxe
+
+Tipos e variáveis
+
+Asssuntos
+
+Númericos inteiros e decimais
+Tipos lógicos
+Caracteres
+Objetivos
+Diferença entre variável e constante.
