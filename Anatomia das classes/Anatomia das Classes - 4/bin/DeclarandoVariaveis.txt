@@ -1,0 +1,24 @@
+Declarar uma variavel em java semprre segue a seguinte estrtutura:
+   
+   Tipo NomeBemDefinido = Atribuição (opcional em alguns casos)
+
+   int idade = 23;
+   double altura = 1.62;
+   Dog spike;
+   
+  String meuNome = "Renato";
+
+   int anoFabricacao = 2022;
+
+   boolean verdadeira = false;
+
+   anoFabricacao = 2018;
+
+   
+   Declrando métodos
+
+   Tipo de Retorno Nome Objetivo no infinitivo Parametros
+
+   int somar (int numeroU, int numero2)
+
+   String formaterCep (long cep)
