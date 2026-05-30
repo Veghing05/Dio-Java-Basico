@@ -1,0 +1,31 @@
+Tipos primitivos
+
+Os oito tipos primitivos em Java são:
+
+int, byte, long, float, boolean e char - esses
+tipos não são considerados objetos, e portanto 
+representam valores brutos. 
+Eles são armazenados diretamente na pilha de 
+ memória . (Memory stack).
+
+ Tabela de Tipos Primitivos e seus valores:
+
+ Tipo | Memória | Valor minimo  
+ 
+byte | 1 byte | -128
+short | 2 byte | -32.768
+int | 4 bytes | -2.147.483.648
+long  | 8 bytes | -9.223.371.036.854.775.808
+
+Os tipos primitivos que podem conter partes 
+fracionárias podem ser representados por dois tipos:
+
+Tipo | Memória | Mínimo | Máximo
+float | 4 bytes | -3,4028E + 38 | 3,4028E + 38
+double | 8 bytes | -1,7976E + 308 | 1,7976E + 308
+
+<Tipo> <nomeVariavel> <atribuicaoDeValorOpcional> 
+
+int idade;
+int anoFabricacao = 2021;
+double salarioMinimo = 2.500;
