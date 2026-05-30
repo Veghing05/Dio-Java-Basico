@@ -1,5 +1,6 @@
 public class VariaveisConstantes{
-  
+  // tipos primitivos
+  // estudem a classe String que reprsenta texto na apliacação
   public static void main(String[] args) throws Exception {
     double salarioMinimo = 2500;
 
