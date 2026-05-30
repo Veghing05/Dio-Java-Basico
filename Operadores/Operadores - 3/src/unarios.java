@@ -10,6 +10,6 @@ public class unarios {
     numero = numero * -1;
 
     System.out.println(numero);
-
+  
   }
 }

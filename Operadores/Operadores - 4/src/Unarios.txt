@@ -1,0 +1,9 @@
+Unários
+
+(+) Operador unário de valor positivo - número dão positivos sem esse operador explicitamente;
+
+(-) Operador unário de valor negativo - nega um número ou expressão aritmética;
+
+(++) Operador unário de incremento de valor - incrementa o valor em 1 unidade; 
+
+(--) Operador unário de decremnento de valor - Operador unário de decremento de valor - decrementa o valor em 1
