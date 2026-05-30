@@ -1,0 +1,9 @@
+Variáveis e Constantes
+
+Variaveis 
+
+Constantes São valores armazendas em memória que 
+não podem mudar depopis de declarados, É representada 
+pela palavra ""final" e são sempre escritas em
+CAIXA ALTA.
+
