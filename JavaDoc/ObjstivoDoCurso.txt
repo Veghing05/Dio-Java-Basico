@@ -1,0 +1,18 @@
+Objetivo do Curso
+
+Apresentar a ferramenta de documentação da linguagem 
+e explorar como adicionar comentários em nossos arquivos.
+
+pré requisitos 
+
+° Diretório do projeto definido
+° Integração com GitHub
+° IDE configurada
+
+Assuntos
+
+° Documentação oficial 
+https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+° Tags
+° Tipos de comentários 
+° Javadoc

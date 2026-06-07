@@ -1,0 +1,21 @@
+Objetivo do curso
+
+Explorar opções de entrada e saída simples de dados em uma aplicação
+Java.
+
+Pré-requisitos 
+
+° Diretório do projeto definido 
+° Integração com GitHub
+° IDE Configurada
+° Noções de MS-DOS
+
+Assuntos
+
+° main args
+
+° Scanner
+ 
+° Execução via IDE
+
+ ° Execução via prompt de comando
